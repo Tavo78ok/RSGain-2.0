@@ -164,7 +164,7 @@ rsgain-gui/
 ## Desarrollo
 
 ```bash
-git clone https://github.com/TU_USUARIO/rsgain-gui.git
+git clone https://github.com/Tavo78ok/rsgain-gui.git
 cd rsgain-gui
 
 # Instalar en modo editable
