@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="data/rsgain-gui.svg" width="96" alt="RSGain GUI icon"/>
-
 ### Interfaz gráfica GTK4 + libadwaita para [rsgain](https://github.com/complexlogic/rsgain)
 
 Normaliza el volumen de tu biblioteca musical con **ReplayGain 2.0**,
