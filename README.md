@@ -102,7 +102,7 @@ rsgain-gui
 ### Método 4 — Sin instalar
 
 ```bash
-git clone https://github.com/TU_USUARIO/rsgain-gui.git
+git clone https://github.com/Tavo78ok/rsgain-gui.git
 cd rsgain-gui
 python3 -m rsgain_gui
 ```
